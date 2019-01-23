@@ -1,0 +1,27 @@
+Enter the file name:
+invalidSudoku.txt
+
+
+******Sudoku Input******
+362 941 857
+158 726 493
+947 853 126
+
+879 165 234
+214 379 568
+635 284 971
+
+586 497 312
+491 632 789
+723 518 645
+
+
+******Single Threaded Application******
+Is Sudoku solution correct? -> false
+Time required for execution in nano-seconds: 592042
+
+
+******Multi Threaded Application******
+Is Sudoku solution correct? -> false
+Time required for execution in nano-seconds: 73462
+
